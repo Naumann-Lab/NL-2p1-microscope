@@ -1,4 +1,0 @@
-function(createPeriodicData)
-function(createSwTestData)
-function(checkSwTestData)
-function(readWtdataFile)
